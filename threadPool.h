@@ -1,4 +1,4 @@
-//elad baal-tzdaka 312531973
+
 #ifndef __THREAD_POOL__
 #define __THREAD_POOL__
 
